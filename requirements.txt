@@ -1,2 +1,5 @@
 torch
 jupyter
+pandas
+matplotlib
+wordcloud
