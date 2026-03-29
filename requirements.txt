@@ -3,3 +3,6 @@ jupyter
 pandas
 matplotlib
 wordcloud
+requests 
+beautifulsoup4 
+lxml
